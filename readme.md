@@ -13,7 +13,7 @@ Installer les dependences
 npm install
 ```
 Modifier le fichier config.js
-* **pathsToWatchun**
+* **pathsToWatch**
 Un tableau qui contient tout le chemin des fichiers à observer
 ```
 Exemple: /home/yorre/dev/communecter/modules/costum/assets 
