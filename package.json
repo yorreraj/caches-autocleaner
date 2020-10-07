@@ -1,0 +1,23 @@
+{
+  "name": "caches-autocleaner",
+  "version": "1.0.0",
+  "description": "Un script qui permet d'auto supprimer des caches",
+  "main": "index.js",
+  "scripts": {
+    "start": "sudo node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorreraj/caches-autocleaner.git"
+  },
+  "author": "Yorre Rajaonarivelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorreraj/caches-autocleaner/issues"
+  },
+  "homepage": "https://github.com/yorreraj/caches-autocleaner#readme",
+  "dependencies": {
+    "chokidar": "^3.4.2",
+    "lignator": "^1.0.2"
+  }
+}
