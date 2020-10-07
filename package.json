@@ -4,7 +4,7 @@
   "description": "Un script qui permet d'auto supprimer des caches",
   "main": "index.js",
   "scripts": {
-    "start": "sudo node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

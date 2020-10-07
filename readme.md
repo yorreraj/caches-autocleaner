@@ -1,9 +1,9 @@
 # Caches autocleaner
 Un script qui permet d'auto supprimer des caches
 ## Getting Started
-### Prerequisites
+### Prérequis
 Vous devez avoir nodejs installer sur votre ordinateur
-### Installing
+### Installation
 Télécharger le projet
 ```
 git clone https://github.com/yorreraj/caches-autocleaner.git
@@ -27,5 +27,10 @@ Exemple:
     /home/yorre/dev/communecter/pixelhumain/ph/protected/runtime
 ]
 ```
-### Auteur
+### Démarrage
+```
+sudo npm start
+```
+A noter, faut toujours lancer le script en mode administrateur pour éviter le problème de permission de fichier.  
+## Auteur
 * **Yorre Rajaonarivelo**
